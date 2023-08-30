@@ -1,0 +1,119 @@
+[   
+    {
+        "id" : 1,
+        "name" : "Orval Casper",
+        "username" : "orval_casper",
+        "image" : "avatar-1.jpg",
+        "message" : [
+            {
+                "name" : "Orval Casper",
+                "text" : "Hi",
+                "sender_id" : 1,
+                "image" : "avatar-1.jpg",
+                "date" : "2023-08-29 12:00:00"
+            },
+            {
+                "name" : "Chalsei Haley",
+                "text" : "Hello, How Are You Doing",
+                "sender_id" : 100,
+                "image" : "avatar.jpg",
+                "date" : "2023-08-29 12:05:00"
+            },
+            {
+                "name" : "Orval Casper",
+                "text" : "Fine What About You ?",
+                "sender_id" : 1,
+                "image" : "avatar-1.jpg",
+                "date" : "2023-08-29 12:05:00"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "Jarret Waelchi",
+        "username" : "Jarret_walechi",
+        "image" : "avatar-2.jpg",
+        "message" : [
+            {
+                "name" : "Jarret Waelchi",
+                "text" : "Hi Chalsei Where are we for current task",
+                "sender_id" : 2,
+                "image" : "avatar-2.jpg",
+                "date" : "2023-08-26 12:00:00"
+            },
+            {
+                "name" : "Chalsei Haley",
+                "text" : "Almost done",
+                "sender_id" : 100,
+                "image" : "avatar.jpg",
+                "date" : "2023-08-26 12:05:00"
+            },
+            {
+                "name" : "Jarret Waelchi",
+                "text" : "When we able to give update to clients?",
+                "sender_id" : 2,
+                "image" : "avatar-2.jpg",
+                "date" : "2023-08-26 12:05:00"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Michel Emard",
+        "username" : "Michel Emard",
+        "image" : "avatar-3.jpg",
+        "message" : [
+            {
+                "name" : "Michel Emard",
+                "text" : "What are you doing on this weekend",
+                "sender_id" : 3,
+                "image" : "avatar-3.jpg",
+                "date" : "2023-08-27 12:00:00"
+            },
+            {
+                "name" : "Chalsei Haley",
+                "text" : "Nothing, Netflix",
+                "sender_id" : 100,
+                "image" : "avatar.jpg",
+                "date" : "2023-08-27 12:05:00"
+            },
+            {
+                "name" : "Michel Emard",
+                "text" : "I was planing to get some outing, do you want to join",
+                "sender_id" : 3,
+                "image" : "avatar-3.jpg",
+                "date" : "2023-08-26 12:05:00"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name" : "Reuben Ward",
+        "username" : "Reuben_Ward",
+        "image" : "avatar-4.jpg",
+        "message" : [
+            {
+                "name" : "Reuben Ward",
+                "text" : "Hi Chalsei I want to add some additional feature in my web site, when we can discuss ?",
+                "sender_id" : 4,
+                "image" : "avatar-4.jpg",
+                "date" : "2023-08-30 00:00:00"
+            },
+            {
+                "name" : "Chalsei Haley",
+                "text" : "Probably Tomorrow Morning",
+                "sender_id" : 100,
+                "image" : "avatar.jpg",
+                "date" : "2023-08-30 01:00:00"
+            },
+            {
+                "name" : "Reuben Ward",
+                "text" : "Ok just send me a google meet link will available",
+                "sender_id" : 4,
+                "image" : "avatar-4.jpg",
+                "date" : "2023-08-30 13:00:00"
+            }
+        ]
+    }
+   
+]
